@@ -1,0 +1,4 @@
+<contentpackage name="EA-FFE and Animated Barotrauma Patch" modversion="1.0.0" gameversion="1.4.6.0" corepackage="false">
+    <Item file="%ModDir%/Suit/Suit.xml" />
+    <Item file="%ModDir%/Vest/Vest.xml" />
+</contentpackage>
