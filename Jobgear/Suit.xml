@@ -82,6 +82,7 @@
             <sprite name="Heavy Uniform Right Shoe" texture="cbrnsuit.png" limb="RightFoot" hidelimb="true"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,683,264"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="scp_presolatexinfection" damagemultiplier="0"
                             probabilitymultiplier="0"/>
             <damagemodifier afflictionidentifiers="acidburn,burn" armorsector="0.0,360.0" damagemultiplier="0.1"
@@ -201,6 +202,7 @@
             <sprite name="Left Shoe" texture="clowncombatdress.png" limb="LeftFoot" hidelimb="true"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,786,256"
                     origin="0.5,0.5" sound="footstep_clown"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="lacerations,bitewounds"
                             damagemultiplier="0.8"/>
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="gunshotwound" damagemultiplier="0.75"/>
@@ -296,6 +298,7 @@
             <sprite name="Combat Medic Left Shoe" texture="combatmedic.png" limb="LeftFoot" hidelimb="true"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,786,256"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="lacerations" damagemultiplier="0.8"/>
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="gunshotwound" damagemultiplier="0.75"/>
             <SkillModifier skillidentifier="medical" skillvalue="10"/>
@@ -393,6 +396,7 @@
             <sprite name="Combat Medic Left Shoe" texture="combatmedicrenegade.png" limb="LeftFoot" hidelimb="true"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,786,256"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="lacerations" damagemultiplier="0.85"/>
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="gunshotwound" damagemultiplier="0.8"/>
             <SkillModifier skillidentifier="medical" skillvalue="5"/>
@@ -490,6 +494,7 @@
             <sprite name="Heavy HAZMAT Right Shoe" texture="heavyhazmat.png" limb="RightFoot" hidelimb="true"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,755,256"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="scp_presolatexinfection" damagemultiplier="0"
                             probabilitymultiplier="0"/>
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="radiationsickness" damagemultiplier="0.15"/>
@@ -617,6 +622,7 @@
             <sprite name="Heavy Renegade Uniform Right Shoe" texture="heavyrenuniform.png" limb="RightFoot"
                     hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true"
                     sourcerect="0,0,683,264" origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier afflictionidentifiers="burn" armorsector="0.0,360.0" damagemultiplier="0.9"/>
             <damagemodifier afflictionidentifiers="gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.77"
                             damagesound="LimbArmor" deflectprojectiles="true"/>
@@ -709,6 +715,7 @@
             <sprite name="Heavy Uniform Right Shoe" texture="heavyuniform.png" limb="RightFoot" hidelimb="true"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,683,264"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier afflictionidentifiers="explosiondamage,lacerations,bleeding" armorsector="0.0,360.0"
                             damagemultiplier="0.6" damagesound="LimbArmor" deflectprojectiles="true"/>
             <damagemodifier afflictionidentifiers="burn,gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.85"
@@ -795,6 +802,7 @@
             <sprite name="highperfhazmat Right Shoe" texture="highperfhazmat.png" limb="RightFoot" hidelimb="true"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,755,256"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="scp_presolatexinfection,scp_hexgasdamage"
                             damagemultiplier="0" probabilitymultiplier="0"/>
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="radiationsickness" damagemultiplier="0.05"/>
@@ -918,6 +926,7 @@
             <sprite name="Heavy Uniform Right Shoe" texture="lightuniform.png" limb="RightFoot" hidelimb="true"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,683,264"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier afflictionidentifiers="lacerations,gunshotwound" armorsector="0.0,360.0"
                             damagemultiplier="0.9" damagesound="LimbArmor" deflectprojectiles="true"/>
             <damagemodifier afflictionidentifiers="bleeding" armorsector="0.0,360.0" damagemultiplier="0.85"
@@ -994,6 +1003,7 @@
             <sprite name="Combat Medic Left Shoe" texture="marauderuniform.png" sound="suitfootstep" limb="LeftFoot"
                     hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true"
                     sourcerect="0,0,786,256" origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="lacerations,bitewounds"
                             damagemultiplier="0.6"/>
             <damagemodifier armorsector="0.0,360.0" afflictionidentifiers="gunshotwound" damagemultiplier="0.7"/>
@@ -1080,6 +1090,7 @@
             <sprite name="Heavy Uniform Right Shoe" texture="protectuniform.png" limb="RightFoot" sound="suitfootstep"
                     hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true"
                     sourcerect="0,0,683,264" origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier afflictionidentifiers="burn" armorsector="0.0,360.0" damagemultiplier="0.7"/>
             <damagemodifier afflictionidentifiers="gunshotwound" armorsector="0.0,360.0" damagemultiplier="0.6"
                             damagesound="LimbArmor" deflectprojectiles="true"/>
@@ -1159,6 +1170,7 @@
             <sprite name="renegadecaptain Right Shoe" texture="renegadecaptain.png" limb="RightFoot" hidelimb="true"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,770,256"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier afflictionidentifiers="lacerations,gunshotwound" armorsector="0.0,360.0"
                             damagemultiplier="0.8"/>
             <SkillModifier skillidentifier="helm" skillvalue="5"/>
@@ -1245,6 +1257,7 @@
             <sprite name="Renegade Uniform Right Shoe" texture="renegadeuniform.png" limb="RightFoot" hidelimb="true"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,805,256"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier afflictionidentifiers="lacerations,gunshotwound,bleeding" armorsector="0.0,360.0"
                             damagemultiplier="0.9"/>
             <StatValue stattype="WalkingSpeed" value="0.025"/>
@@ -1330,6 +1343,7 @@
             <sprite name="Spec Ops Uniform Right Shoe" texture="specopsuniform.png" limb="RightFoot" hidelimb="true"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,683,264"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier afflictionidentifiers="burn" armorsector="0.0,360.0" damagemultiplier="0.75"/>
             <damagemodifier afflictionidentifiers="lacerations,gunshotwound" armorsector="0.0,360.0"
                             damagemultiplier="0.75" deflectprojectiles="true"/>
@@ -1417,6 +1431,7 @@
             <sprite name="Spec Ops Uniform Right Shoe" texture="vanguarduniform.png" limb="RightFoot"
                     sound="suitfootstep" hidelimb="true" inherittexturescale="true" inheritorigin="true"
                     inheritsourcerect="true" sourcerect="0,0,683,264" origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier afflictionidentifiers="burn" armorsector="0.0,360.0" damagemultiplier="0.75"/>
             <damagemodifier afflictionidentifiers="lacerations,gunshotwound" armorsector="0.0,360.0"
                             damagemultiplier="0.65" deflectprojectiles="true"/>

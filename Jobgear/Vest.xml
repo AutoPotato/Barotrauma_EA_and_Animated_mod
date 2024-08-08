@@ -49,6 +49,7 @@
                     hidelimb="false"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,683,264"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <StatValue stattype="WalkingSpeed" value="-0.05"/>
             <SkillModifier skillidentifier="mechanical" skillvalue="-10"/>
             <SkillModifier skillidentifier="electrical" skillvalue="-10"/>
@@ -96,6 +97,7 @@
             <sprite name="Security Vest Wearable" texture="%ModDir%/Jobgear/bodyarmor.png" limb="Torso" hidelimb="false"
                     inheritscale="true" scale="1" inheritorigin="false" origin="0.5,0.565" inheritsourcerect="false"
                     sourcerect="11,7,97,115"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
         </Wearable>
         <ItemContainer capacity="4" slotsperrow="4" keepopenwhenequipped="false" movableframe="true">
             <Containable items="smallitem"
@@ -170,6 +172,7 @@
             <sprite name="Heavy Rig Right Kneepad" texture="%ModDir%/Jobgear/heavyarmorrig.png" limb="RightLeg"
                     hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true"
                     sourcerect="0,0,683,264" origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <StatValue stattype="WalkingSpeed" value="-0.075"/>
             <StatValue stattype="SwimmingSpeed" value="-0.05"/>
         </Wearable>
@@ -231,6 +234,7 @@
             <sprite name="Special Rig Left Lower Arm" texture="%ModDir%/Jobgear/marauderrig.png" limb="LeftForearm"
                     hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true"
                     sourcerect="0,0,683,264" origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <StatValue stattype="WalkingSpeed" value="0.1"/>
             <StatValue stattype="SwimmingSpeed" value="0.1"/>
             <SkillModifier skillidentifier="mechanical" skillvalue="-15"/>
@@ -295,6 +299,7 @@
             <sprite name="Special Rig Left Lower Arm" texture="%ModDir%/Jobgear/marauderrig.png" limb="LeftForearm"
                     hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true"
                     sourcerect="0,0,683,264" origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <SkillModifier skillidentifier="mechanical" skillvalue="-35"/>
             <SkillModifier skillidentifier="electrical" skillvalue="-35"/>
         </Wearable>
@@ -351,6 +356,7 @@
             <sprite name="Renegade Carrier Holster" texture="renegadeplatecarrier.png" limb="RightThigh"
                     hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true"
                     sourcerect="0,0,683,264" origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <damagemodifier afflictionidentifiers="gunshotwound,lacerations" armorsector="0.0,360.0"
                             damagemultiplier="0.44" damagesound="armourmedimpact" deflectprojectiles="true"/>
             <damagemodifier afflictionidentifiers="blunttrauma" armorsector="0.0,360.0" damagemultiplier="0.7"
@@ -435,6 +441,7 @@
             <sprite name="Special Rig Left Lower Arm" texture="%ModDir%/Jobgear/renegadespecialrig.png"
                     limb="LeftForearm" hidelimb="false" inherittexturescale="true" inheritorigin="true"
                     inheritsourcerect="true" sourcerect="0,0,683,264" origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <StatValue stattype="WalkingSpeed" value="-0.15"/>
             <StatValue stattype="SwimmingSpeed" value="-0.25"/>
         </Wearable>
@@ -488,6 +495,8 @@
             <sprite name="Renegade Vest Wearable" texture="%ModDir%/Jobgear/renegadevest.png" limb="Torso"
                     hidelimb="false" inheritscale="true" scale="1.11" inheritorigin="false" origin="0.5,0.59"
                     inheritsourcerect="false" sourcerect="0,6,76,103"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
+
         </Wearable>
         <ItemContainer capacity="4" slotsperrow="6" keepopenwhenequipped="false" movableframe="true">
             <Containable items="smallitem"
@@ -530,6 +539,7 @@
             <sprite name="scp_riotwear" texture="%ModDir%/jobgear/riotvest.png" limb="Torso" hidelimb="false"
                     inheritscale="true" scale="0.74" inheritorigin="false" origin="0.5,0.5" inheritsourcerect="false"
                     sourcerect="2,3,112,180"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
         </Wearable>
     </Item>
 
@@ -575,6 +585,7 @@
             <sprite name="scp_softvestwear" texture="%ModDir%/jobgear/softvest.png" limb="Torso" hidelimb="false"
                     inheritscale="true" scale="0.69" inheritorigin="false" origin="0.4,0.5" inheritsourcerect="false"
                     sourcerect="12,9,124,179"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
         </Wearable>
         <ItemContainer capacity="4" slotsperrow="8" keepopenwhenequipped="false" movableframe="true">
             <Containable items="smallitem"
@@ -646,6 +657,7 @@
             <sprite name="Special Rig Left Lower Arm" texture="%ModDir%/Jobgear/specialrig.png" limb="LeftForearm"
                     hidelimb="false" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true"
                     sourcerect="0,0,683,264" origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
             <StatValue stattype="WalkingSpeed" value="-0.1"/>
             <StatValue stattype="SwimmingSpeed" value="-0.2"/>
         </Wearable>
@@ -693,6 +705,7 @@
             <sprite name="Spec Ops Rig Wearable" texture="%ModDir%/Jobgear/specopsvest.png" limb="Torso"
                     hidelimb="false" inheritscale="true" scale="1" inheritorigin="false" origin="0.43,0.65"
                     inheritsourcerect="false" sourcerect="12,7,84,115"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
         </Wearable>
         <ItemContainer capacity="6" slotsperrow="8" keepopenwhenequipped="false" movableframe="true">
             <Containable items="smallitem"
@@ -750,6 +763,7 @@
             <sprite name="Armpad" texture="%ModDir%/Jobgear/vanguardrig.png" limb="RightArm" hidelimb="false"
                     inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" sourcerect="0,0,683,264"
                     origin="0.5,0.5"/>
+            <sprite name="Boobs" texture="bodyarmor.png" limb="Tail" hidelimb="true" inherittexturescale="true" inheritorigin="true" inheritsourcerect="true" />
         </Wearable>
         <ItemContainer capacity="4" slotsperrow="8" keepopenwhenequipped="false" movableframe="true">
             <Containable items="smallitem"
